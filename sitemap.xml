@@ -52,11 +52,6 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/sample-product-page/
-        </loc>
-    </url>
-    <url>
-        <loc>
             http://localhost:8000/products/syrian-walls/
         </loc>
     </url>
@@ -68,6 +63,16 @@
     <url>
         <loc>
             http://localhost:8000/products/damascus-watercolor-painting/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/syria-poster/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/arabic-syria-poster/
         </loc>
     </url>
     <url>
